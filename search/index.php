@@ -8,7 +8,7 @@
             <section class="box minH50 mb-5 rounded">
                 <h2 class="p-3 text-center">Search Donors</h2>
                 <?php
-                    print_r($active);
+                    //print_r($active);
                 ?>
                 <form action="" class="container mb-5" method="POST">
                     <div class="d-flex justify-content-center">
